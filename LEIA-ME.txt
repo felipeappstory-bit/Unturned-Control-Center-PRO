@@ -1,0 +1,9 @@
+UNTURNED CONTROL CENTER PRO - GERENCIADOR DE MODS
+
+Execute ABRIR.bat com Python instalado.
+Na CENTRAL DE FERRAMENTAS, abra Gerenciador de mods.
+Steam Workshop: abrir pagina e cancelar inscricao na Steam.
+Mods locais: desativar (mover para Documentos), restaurar e excluir somente apos desativacao.
+Feche o Unturned antes de mover mods. Faça backup dos mundos antes de remover mods usados.
+
+NOVIDADE: procura mundos e dificuldades Easy, Normal e Hard. Mostra nome original, tradução e valor. As opções exibidas são as presentes no arquivo selecionado; opções introduzidas em atualizações podem depender de o jogo atualizar esse arquivo.
